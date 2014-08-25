@@ -1,7 +1,7 @@
-# bootstrapParallax
+# bootstrapInit
 ======
 
-Bootstrap Parallax Template: quick start using `bootstrap`. This was created using a web tutorial, I removed the google maps stuff and added the carousel.
+Bootstrap Template: quick start using `bootstrap`.
 
 ## Setup
 
@@ -21,11 +21,11 @@ Bootstrap Parallax Template: quick start using `bootstrap`. This was created usi
 
 ## Demo
 
-[http://minorsolis.github.io/bootstrapParallax/](http://minorsolis.github.io/bootstrapParallax/)
+[http://minorsolis.github.io/bootstrapInit/](http://minorsolis.github.io/bootstrapInit/)
 
 
 ## Tags (keywords)
 
-* bootstrap parallax template
-* bootstrap parallax quick start
-* bootstrap parallax in github
+* bootstrap empty template
+* bootstrap quick start
+* bootstrap in github
