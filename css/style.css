@@ -1,0 +1,4 @@
+/* general styles */
+html, body { height: 100%;  width: 100%; }
+
+.borderRed{border: 1px solid red;}
